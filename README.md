@@ -11,7 +11,7 @@ Input is in metric. Imperial units are shown on the right for reference.
 
 The blue shaded cells are calculated values.
 
-Percentiles are based on data from the U.S. Center for Disease Control and Prevention.
+Percentiles are based on data from the [U.S. Center for Disease Control and Prevention](https://www.cdc.gov/growthcharts/percentile_data_files.htm).
 
 The procentiles are calculated for boys.  To switch to girls, change the first parameter in each function call, e.g.
 `=calc_weight4age(2, C5, D5)`
